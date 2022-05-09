@@ -1,0 +1,50 @@
+{
+  "_from": "@ebutler/phaser3-types@~3.16.0",
+  "_id": "@ebutler/phaser3-types@3.16.2",
+  "_inBundle": false,
+  "_integrity": "sha512-jE5th4vK5FFKxjWfK0tMuNGj3mcnMcAlcQRl3IAI1Wo27b0mRmlh91Arg00az8Sf47ks4g115m91C5ubMI9OfQ==",
+  "_location": "/@ebutler/phaser3-types",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@ebutler/phaser3-types@~3.16.0",
+    "name": "@ebutler/phaser3-types",
+    "escapedName": "@ebutler%2fphaser3-types",
+    "scope": "@ebutler",
+    "rawSpec": "~3.16.0",
+    "saveSpec": null,
+    "fetchSpec": "~3.16.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ebutler/phaser3-types/-/phaser3-types-3.16.2.tgz",
+  "_shasum": "fbfa90879e567bbe2c792b7dedac383a40f6da49",
+  "_spec": "@ebutler/phaser3-types@~3.16.0",
+  "_where": "/root/MoDySys/Phaser3FirstProject/node_modules",
+  "author": {
+    "name": "ericbutler000@gmail.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A project to build and publish the type definitions for Phaser3 using their docs and source repos",
+  "files": [
+    "index.d.ts"
+  ],
+  "keywords": [
+    "phaser",
+    "phaser3",
+    "typescript",
+    "types",
+    "definitions"
+  ],
+  "license": "MIT",
+  "main": "",
+  "name": "@ebutler/phaser3-types",
+  "scripts": {},
+  "typeScriptVersion": "2.9.2",
+  "types": "index",
+  "version": "3.16.2"
+}
